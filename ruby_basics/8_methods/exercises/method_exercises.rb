@@ -51,7 +51,6 @@ def ascii_code(character)
   end
 end
 
-
 # method name: #pet_pun
 # parameter: animal (a string)
 # return value: nil
