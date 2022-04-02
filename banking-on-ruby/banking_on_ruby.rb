@@ -83,7 +83,7 @@ bruce_account.deposit(2436, 46_362_261_983)
 
 barry_account = Account.new("Barry Iris Inverse West Allen", 8_312_021)
 barry_account.display_balance(2436)
-barry_account.deposit(2436, 6_206_101_986)
+barry_account.deposit(2436, 2_473_221_986)
 
 clark_account = Account.new("Clark Joseph Inverse Shoreline Kent", 1_312_022)
 clark_account.display_balance(2436)
