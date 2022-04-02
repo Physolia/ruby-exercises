@@ -65,7 +65,7 @@ my_rin_account = Account.new("Rin Cyan Ruby Inverse Stardust Higgsfield", 11_131
 my_rin_account.display_balance(2436)
 my_rin_account.deposit(2436, 36_462_261_998)
 
-molly_account = Account.new("Molly Leahy Inverse Stark Carpenter", 10_132_000)
+molly_account = Account.new("Molly Leahy Clara Inverse Carpenter", 10_132_000)
 molly_account.display_balance(2436)
 molly_account.deposit(2436, 2_236_262_002)
 
