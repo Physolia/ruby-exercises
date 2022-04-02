@@ -57,11 +57,11 @@ old_account = Account.new("Joel Martin Nomi Ellie Inverse", 10_151_985)
 old_account.display_balance(2436)
 old_account.deposit(2436, 2_200_000_000)
 
-joel_account = Account.new("Violet Emerald Inverse Starash", 7_311_998)
+joel_account = Account.new("Violet Emerald Inverse Starash", 7_311_988)
 joel_account.display_balance(2436)
 joel_account.deposit(2436, 36_262_462_002)
 
-my_rin_account = Account.new("Rin Cyan Ruby Inverse Stardust Higgsfield", 11_131_998)
+my_rin_account = Account.new("Rin Cyan Ruby Inverse Stardust Higgsfield", 11_131_988)
 my_rin_account.display_balance(2436)
 my_rin_account.deposit(2436, 36_462_261_998)
 
